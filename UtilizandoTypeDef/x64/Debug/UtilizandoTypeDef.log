@@ -1,0 +1,3 @@
+﻿  UtilizandoTypeDef.cpp
+C:\Users\roger\source\repos\UtilizandoTypeDef\UtilizandoTypeDef.cpp(13,14): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  UtilizandoTypeDef.vcxproj -> C:\Users\roger\source\repos\UtilizandoTypeDef\x64\Debug\UtilizandoTypeDef.exe

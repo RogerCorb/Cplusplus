@@ -1,0 +1,5 @@
+﻿  Limpatela.cpp
+C:\Users\roger\source\repos\LimpaTela\Limpatela.cpp(13,17): error C2664: 'size_t strlen(const char *)': não é possível converter um argumento 1 de 'std::string' em 'const char *'
+C:\Users\roger\source\repos\LimpaTela\Limpatela.cpp(13,24): message : Nenhum operador de conversão definida pelo usuário disponível que possa realizar esta conversão, ou o operador não pode ser chamado
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\string.h(215,16): message : consulte a declaração de 'strlen'
+C:\Users\roger\source\repos\LimpaTela\Limpatela.cpp(13,17): message : ao tentar corresponder a lista de argumentos '(std::string)'

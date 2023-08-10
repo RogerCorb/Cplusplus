@@ -1,0 +1,3 @@
+﻿  AulaPrintF.cpp
+C:\Users\roger\source\repos\AulaSaidaPrintF\AulaPrintF.cpp(13,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  AulaSaidaPrintF.vcxproj -> C:\Users\roger\source\repos\AulaSaidaPrintF\x64\Debug\AulaSaidaPrintF.exe

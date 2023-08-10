@@ -1,0 +1,5 @@
+﻿  ConceitoHeranca.cpp
+C:\Users\roger\source\repos\ConceitoHeranca\ConceitoHeranca.cpp(17,26): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\roger\source\repos\ConceitoHeranca\ConceitoHeranca.cpp(17,20): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\roger\source\repos\ConceitoHeranca\ConceitoHeranca.cpp(24,16): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+  ConceitoHeranca.vcxproj -> C:\Users\roger\source\repos\ConceitoHeranca\x64\Debug\ConceitoHeranca.exe

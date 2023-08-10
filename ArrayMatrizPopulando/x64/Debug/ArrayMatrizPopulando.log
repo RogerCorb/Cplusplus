@@ -1,0 +1,3 @@
+﻿  PopulandoMatriz.cpp
+C:\Users\roger\source\repos\ArrayMatrizPopulando\PopulandoMatriz.cpp(15,10): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  ArrayMatrizPopulando.vcxproj -> C:\Users\roger\source\repos\ArrayMatrizPopulando\x64\Debug\ArrayMatrizPopulando.exe

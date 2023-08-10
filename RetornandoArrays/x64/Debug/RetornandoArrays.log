@@ -1,0 +1,3 @@
+﻿  retornandoArrays.cpp
+C:\Users\roger\source\repos\RetornandoArrays\retornandoArrays.cpp(18,10): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  RetornandoArrays.vcxproj -> C:\Users\roger\source\repos\RetornandoArrays\x64\Debug\RetornandoArrays.exe

@@ -1,0 +1,3 @@
+﻿  PassandoArrayparaFuncoes.cpp
+C:\Users\roger\source\repos\PassandoArraysparaFuncoes\PassandoArrayparaFuncoes.cpp(15,22): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  PassandoArraysparaFuncoes.vcxproj -> C:\Users\roger\source\repos\PassandoArraysparaFuncoes\x64\Debug\PassandoArraysparaFuncoes.exe

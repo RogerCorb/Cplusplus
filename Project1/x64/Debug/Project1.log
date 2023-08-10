@@ -1,0 +1,11 @@
+﻿  calculadoracomfuncaoecase.cpp
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(30,10): error C2065: 'Operacao': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(31,2): error C2050: expressão de switch não integral
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(32,19): error C2065: 'Num1': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(32,26): error C2065: 'Num2': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(33,19): error C2065: 'Num1': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(33,26): error C2065: 'Num2': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(34,19): error C2065: 'Num1': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(34,26): error C2065: 'Num2': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(35,19): error C2065: 'Num1': identificador não declarado
+C:\Users\roger\source\repos\Project1\calculadoracomfuncaoecase.cpp(35,26): error C2065: 'Num2': identificador não declarado

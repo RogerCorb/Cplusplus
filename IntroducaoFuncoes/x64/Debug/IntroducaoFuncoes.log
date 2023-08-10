@@ -1,0 +1,5 @@
+﻿  FuncoesMenu.cpp
+C:\Users\roger\source\repos\IntroducaoFuncoes\FuncoesMenu.cpp(2,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'cmatch': No such file or directory
+  Origem.cpp
+C:\Users\roger\source\repos\IntroducaoFuncoes\Origem.cpp(4,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'cmatch': No such file or directory
+  Gerando Código...

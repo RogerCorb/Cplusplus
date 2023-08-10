@@ -1,0 +1,6 @@
+﻿  ForEachAutoLoop.cpp
+C:\Users\roger\source\repos\ForEachAutoloop\ForEachAutoLoop.cpp(8,22): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\roger\source\repos\ForEachAutoloop\ForEachAutoLoop.cpp(8,38): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\roger\source\repos\ForEachAutoloop\ForEachAutoLoop.cpp(8,44): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\roger\source\repos\ForEachAutoloop\ForEachAutoLoop.cpp(8,59): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  ForEachAutoloop.vcxproj -> C:\Users\roger\source\repos\ForEachAutoloop\x64\Debug\ForEachAutoloop.exe
